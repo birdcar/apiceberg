@@ -304,7 +304,6 @@ Accept-Encoding: gzip, deflate
 Connection: keep-alive
 Host: apiceberg.birdcar.dev
 User-Agent: HTTPie/3.2.2
-
 ```
 
 ---
@@ -325,19 +324,17 @@ X-Nf-Request-Id: 01GVGTV1G1J5K7JE2BGAP4Q91R
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" href="/assets/8b9eb19119592679c97707c257d88026-a02f38e2.png">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@200;400;600&display=swap" type="text/css">
-  <script type="module" crossorigin src="/assets/index-cf09b09f.js"></script>
-  <link rel="stylesheet" href="/assets/index-9b901fa7.css">
-</head>
-<body>
-  <div id="app"></div>
-
-
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/assets/8b9eb19119592679c97707c257d88026-a02f38e2.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@200;400;600&display=swap" type="text/css">
+    <script type="module" crossorigin src="/assets/index-cf09b09f.js"></script>
+    <link rel="stylesheet" href="/assets/index-9b901fa7.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
 </html>
 ```
 
@@ -374,7 +371,7 @@ layout: section
   - Simple
   - Built in to your HTTP Client
 - Cons
-  - Uses your actual username and password ❌ 🚨
+  - Uses your actual username and password ❌🚨
   - Leverages Base64 encoding 🙈🤮
   - Fundamentally insecure in general
   - _Completely_ insecure over HTTP
