@@ -126,9 +126,9 @@ url: https://www.youtube-nocookie.com/embed/Eqpt_Hnx8H4?si=_IvuEkSYqRX2xdfT
 
 ## Time Out: Some pre work
 
-1. Go to the HTTPie App: https://httpie.io/app (optionally, log in with a GitHub Account)
-2. **Visit this page and copy the token:** https://gist.github.com/birdcar/8676df501d8db609af24f17ec8c36ebb
-3.
+1. **Open the Slides to follow along**: https://apiceberg.birdcar.dev
+2. **Go to the HTTPie App**: https://httpie.io/app (optionally, log in with a GitHub Account)
+3. **Visit this page and copy the token:** https://gist.github.com/birdcar/8676df501d8db609af24f17ec8c36ebb
 
 ---
 layout: section
@@ -413,6 +413,8 @@ layout: section
 ---
 
 ## Activity: Oauth Authentication (auth code flow)
+
+https://api.apiceberg.birdcar.dev/docs
 
 ---
 
