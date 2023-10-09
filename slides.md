@@ -412,13 +412,7 @@ layout: section
 
 ---
 
-## Example: OAuth Authentication (client flow)
-
----
-
-## Demonstration: Oauth Authentication (auth code flow)
-
----
+## Activity: Oauth Authentication (auth code flow)
 
 ---
 
